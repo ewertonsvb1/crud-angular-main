@@ -1,0 +1,21 @@
+mat-card{
+  max-width: 80%;
+  margin: 2em auto;
+  text-align: center;
+  background-color: rgb(0, 0, 0, 0,5);
+
+}
+
+.column-flex{
+  display: flex;
+  flex-direction: column;
+  min-width: 300px;
+}
+
+.loading-bar{
+  padding: 5px;
+  background: #3F51B5;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
